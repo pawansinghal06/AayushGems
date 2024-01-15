@@ -121,8 +121,8 @@
 }
 .main-section .container .quick-icons .iconWrapper .iconBox {
     background-color: #fff;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    width: 100px;
+    box-shadow: rgba(149, 157, 165, 7.2) 0px 8px 24px;
+    width: 55px;
     height: 50px;
     border-radius: 7px;
     display: flex;
