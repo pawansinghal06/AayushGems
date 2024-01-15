@@ -1,16 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kalam:wght@400;700&family=Kaushan+Script&family=Oswald:wght@300;400;500&display=swap');
-/* font-family: 'Courgette', cursive;
-font-family: 'Oswald', sans-serif; */
-
 
 .jumbotron.main-section {
     margin-bottom: 0;
     border-radius: 0;
-    background: #e4e8ed;
-    /* padding: 0; */
+    background-color: #e4e8ed;
 }
 .main-section .container {
-    /* background-color: yellow; */
     width: 100%;
 }
 .main-section .container .header {
@@ -40,7 +35,6 @@ font-family: 'Oswald', sans-serif; */
 .main-section .container .title-name {
     font-family: 'Kalam';
     font-size: 35px;
-    /* background-color: red; */
     text-align: center;
     margin: 30px auto;
     width: max-content;
@@ -69,17 +63,13 @@ font-family: 'Oswald', sans-serif; */
     z-index: 1000000 !important;
 }
 .main-section .container .imgs-container {
-    /* background-color: pink; */
     max-width: 600px;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
-    /* padding: 10px; */
-    /* padding-bottom: 0; */
 }
 .main-section .container .imgs-container .imgBox {
     width: 50%;
-    /* background-color: orange; */
 }
 .main-section .container .imgs-container .imgBox:nth-child(odd) {
     padding-right: 5px;
@@ -97,14 +87,12 @@ font-family: 'Oswald', sans-serif; */
 .main-section .container .contact-info {
     display: flex;
     justify-content: center;
-    /* background-color: antiquewhite; */
     max-width: 600px;
     margin: auto;
 }
 .main-section .container .contact-info table {
     border-collapse: collapse;
     width: 100%;
-    /* background: aquamarine; */
 }
 .main-section .container .contact-info table,
 .main-section .container .contact-info table tr,
@@ -123,7 +111,6 @@ font-family: 'Oswald', sans-serif; */
     background-color: #f2f2f2;
 }
 .main-section .container .quick-icons {
-    /* background-color: #ffffff; */
     padding: 25px;
     max-width: 600px;
     margin: auto;
